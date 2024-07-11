@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Procesador Intel i7",
+    "description": "Intel i7-10500",
+    "code": "001",
+    "price": 150000,
+    "status": true,
+    "stock": 5,
+    "category": "Procesadores",
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": "Memoria RAM DDR4",
+    "description": "RAM DDR4-16GB",
+    "code": "002",
+    "price": 80000,
+    "status": true,
+    "stock": 5,
+    "category": "Memorias",
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "Almacenamiento SSD",
+    "description": "SSD-SATA-1TB",
+    "code": "003",
+    "price": 50000,
+    "status": true,
+    "stock": 5,
+    "category": "Almacenamientos",
+    "thumbnails": []
+  }
+]
