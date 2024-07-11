@@ -23,3 +23,6 @@ Se implementa un servidor en Node.js con Express para gestionar productos y carr
 ### La persistencia de la información
 - FileSystem
 -- “productos.json” y “carrito.json”
+
+### Resultados entregados
+
