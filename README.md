@@ -68,3 +68,4 @@ project-root/
 1. **Instalar dependencias**:
    ```bash
    npm install
+   
