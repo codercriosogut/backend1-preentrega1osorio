@@ -14,6 +14,7 @@ const { readProductos } = require('./utils/dataManager');
 //const { router: cartsRouter, productos } = require("./routes/carts.router")
 //ok-
 
+
 //Middlewares
 //No olvides app.use(express.json())
 //No es necesario implementar multer
