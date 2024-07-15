@@ -39,9 +39,9 @@ Se implementa un servidor en Node.js con Express para gestionar productos y carr
   - **app.js**
   - **package.json**
 
-## Instrucciones de Uso
+## Guía de Instalación y Configuración del Proyecto
 
-1. **Instalar dependencias**:
+
    ```bash
    npm init -y
    npm install express
